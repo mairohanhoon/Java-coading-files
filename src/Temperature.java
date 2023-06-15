@@ -1,0 +1,12 @@
+import java.util.Scanner;
+
+public class Temperature {
+    public static void main(String[] args) {
+        Scanner in = new Scanner(System.in);
+        System.out.println("Please enter the temperature in C :");
+        float temC = in.nextFloat();
+
+        float temF = (temC * 9/5) + 32;
+        System.out.println("The temperature in F is : " + temF);
+    }
+}

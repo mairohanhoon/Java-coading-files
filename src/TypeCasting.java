@@ -16,5 +16,4 @@ public class TypeCasting {
         System.out.println(b);
     }
 }
-//left at 1:20:00 4th lecture
 // Two types should be compaitable
