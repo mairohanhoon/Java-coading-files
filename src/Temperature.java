@@ -12,4 +12,3 @@ public class Temperature {
         System.out.println("The string is : " + s);
     }
 }
-// lecture 5 11:34
