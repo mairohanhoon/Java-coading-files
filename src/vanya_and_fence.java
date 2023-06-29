@@ -16,3 +16,4 @@ public class vanya_and_fence {
         System.out.println(n+count);
     }
 }
+//lecture 5 43:42
